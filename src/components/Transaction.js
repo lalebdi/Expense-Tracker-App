@@ -1,9 +1,12 @@
 import React from 'react'
 
 export const Transaction = ({ transaction }) => {
+    const sign = transaction.amount < 0 ? '-' : '+'; //this is to determine if the const is an expense or income
     return (
         <li className="minus">
-        {transaction.text} <span>-$400</span><button className="delete-btn">x</button>
+        {transaction.text} <span>{sign}${Math.abs(transaction.amount)}</span><button className="delete-btn">x</button>
         </li>
     )
 }
+
+// the Math.abs() is to get the absilute values of the amount
