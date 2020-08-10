@@ -31,10 +31,18 @@ export const GlobalProvider =({ childern }) =>{
         });
     }
 
+    function addTransaction(transaction){
+        dispatch({
+            type: 'ADD_TRANSACTION',
+            payload: transaction
+        });
+    }
+
     return(<GlobalContext.Provider vlaue={{
         transactions:state.transactions,
-        deleteTransaction // to use this action we have to pass it down to the provider
-    }}>
+        deleteTransaction, // to use this action we have to pass it down to the provider
+        addTransaction
+        }}>
         {childern} 
     </GlobalContext.Provider>);
 }
