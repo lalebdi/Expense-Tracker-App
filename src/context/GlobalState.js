@@ -1,4 +1,5 @@
 import React, { createContext, useReducer } from 'react';
+import AppReducer from './AppReducer';
 
 //  The initial state
 // Each transacton has an id. if it is a negative number => expense. if a positive number => its income.
