@@ -5,12 +5,7 @@ import AppReducer from './AppReducer';
 // Each transacton has an id. if it is a negative number => expense. if a positive number => its income.
 
 const initialState = {
-    transactions: [
-            { id: 1, text: 'Flower', amount: -20 },
-            { id: 2, text: 'Salary', amount: 300 },
-            { id: 3, text: 'Book', amount: -10 },
-            { id: 4, text: 'Camera', amount: 150 }
-        ]
+    transactions: []
 }
 
 // Creating context
