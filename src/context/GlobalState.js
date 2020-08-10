@@ -32,7 +32,8 @@ export const GlobalProvider =({ childern }) =>{
     }
 
     return(<GlobalContext.Provider vlaue={{
-        transactions:state.transactions
+        transactions:state.transactions,
+        deleteTransaction // to use this action we have to pass it down to the provider
     }}>
         {childern} 
     </GlobalContext.Provider>);
