@@ -4,10 +4,10 @@
 <p align="center">
   
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">The Expense Tracker App</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome app to track your expenses
     
   </p>
 </p>
