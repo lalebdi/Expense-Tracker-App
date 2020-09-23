@@ -38,12 +38,9 @@ This is an amazing expense tracking app. Its a simple React app.
 
 Here's why:
 * You can view your balance.
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* You can deduct and increase yu balance in a simple way and keep track of them.
+*  :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
