@@ -34,10 +34,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This is an amazing expense tracking app. Its a simple React app.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You can view your balance.
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should element DRY principles to the rest of your life :smile:
 
