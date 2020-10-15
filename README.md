@@ -84,7 +84,7 @@ npm install
 
 This app has been deployed
 
-please refer to the [Documentation](https://example.com)_
+please refer to the [https://elastic-kare-8772bd.netlify.app](https://elastic-kare-8772bd.netlify.app)_
 
 
 
