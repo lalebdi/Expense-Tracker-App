@@ -31,6 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img width="669" alt="Screen Shot 2020-10-15 at 4 21 52 PM" src="https://user-images.githubusercontent.com/67381036/96181893-b1aa2080-0f02-11eb-8587-fabf6c68a5d5.png">
 
 
 This is an amazing expense tracking app. Its a simple React app.
