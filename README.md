@@ -82,9 +82,9 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This app will be deployed on Sept. 27.
+This app has been deployed
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+please refer to the [Documentation](https://example.com)_
 
 
 
