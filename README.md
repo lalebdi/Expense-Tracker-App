@@ -52,10 +52,6 @@ Here's why:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-
-
-
-
 ### Installation
 
 
