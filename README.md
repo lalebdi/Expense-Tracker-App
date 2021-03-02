@@ -69,7 +69,7 @@ You will also see any lint errors in the console.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/lalebdi/Expense-Tracker-App
+git clone https://github.com/lalebdi/Expense-Tracker-App.git
 ```
 2. Install NPM packages
 ```sh
