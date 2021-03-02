@@ -50,8 +50,6 @@ Here's why:
 
 
 <!-- GETTING STARTED -->
-
-
 ### Installation
 
 
