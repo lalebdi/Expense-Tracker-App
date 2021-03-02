@@ -62,6 +62,7 @@ git clone https://github.com/lalebdi/Expense-Tracker-App.git
 npm install
 ```
 
+## Getting Started
 In the project directory, you can run:
 
 ### `npm start`
